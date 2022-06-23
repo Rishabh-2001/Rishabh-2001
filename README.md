@@ -27,7 +27,7 @@
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/matrix98/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/matrix98/profile" height="30" width="40" /></a>
  <p><img align="left" src="https://leetcard.jacoblin.cool/Rishabh_98?site=en&layout=compact" alt="Rishabh_1998" />
 <img align="left" src="https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=matrix98" alt="matrix98" /></p>
-&nbsp;&nbsp;&nbsp;
+</p>
 </p>
 
 
