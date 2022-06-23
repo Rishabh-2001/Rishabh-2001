@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 <h1 align="center">Hi 👋, I'm Rishabh Kumar</h1>
 <h3 align="center">A passionate Programmer, and an Aspiring Software Developer from India.</h3>
 
@@ -36,4 +35,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabh-2001&" alt="rishabh-2001" /></p>
 
--->
