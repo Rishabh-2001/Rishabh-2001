@@ -6,9 +6,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishabh-2001" alt="rishabh-2001" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/rishabh14040376" target="blank"><img src="https://img.shields.io/twitter/follow/rishabh14040376?logo=twitter&style=for-the-badge" alt="rishabh14040376" /></a> </p>
-- I'm skilled in Frontend Web Developement and uploaded my few Frontend Developement Projects here on Github.
+
 - 🌱 I’m currently learning **ReactJS** and I'm on my way to be a FullStack Developer too.
-- I also have good Fundamental Knowledge about Core CS Fundamentals of OOPS, Data Structures & Algorithms, DBMS, Computer Networks and Operating System.
+
 - 💬 Ask me about **Javascript | C/C++ | mySQL |**
 
 - 📫 How to reach me **kumarrishabh.kumar96@gmail.com**
