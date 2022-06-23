@@ -26,8 +26,8 @@
 <a href="https://www.leetcode.com/rishabh_98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rishabh_98" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/matrix98/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/matrix98/profile" height="30" width="40" /></a>
  <p><img align="left" src="https://leetcard.jacoblin.cool/Rishabh_98?site=en&layout=compact" alt="Rishabh_1998" />
-<img align="left" src="https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=matrix98" alt="matrix98" /></p>
-</p> <br />
+<img align="left" src="https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=matrix98" alt="matrix98" /></p><br />
+</p> 
 
 
 <h3 align="left">Languages and Tools:</h3>
